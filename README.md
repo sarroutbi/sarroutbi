@@ -1,7 +1,6 @@
 # Sergio Arroutbi (sarroutbi)
 
-Hi there! 👋. I am a software developer working at Red Hat. I love Linux 🐧 Operating System and work mainly on [NBDE](https://access.redhat.com/articles/6987053). A little bit more on my profile:\
-I am a Software Designer with a history of working in the information technology, transport, telecommunication and services industry. Skilled in Linux, C++ and Golang programming, Shell Scripting, Software Design and Development, Docker and Kubernetes. I am an engineering professional with Telecommunication Engineering, a Master's Degree focused in FLOSS (Free/Libre/Open Source Software) from Universidad Rey Juan Carlos and Software Craftsmanship Master's Degree in Universidad Politécnica de Madrid.
+Hi there! 👋. I am a Software Designer working at Red Hat Inc.  I love Linux 🐧 Operating System and work mainly on [NBDE](https://access.redhat.com/articles/6987053). In the past, I have worked in different industries such as information technology, transport, telecommunication and services industry. Skilled in Linux, C++ and Golang programming, Shell Scripting, Software Design and Development, Docker and Kubernetes. I studied Telecommunication Engineering, and also a Master's Degree focused in FLOSS (Free/Libre/Open Source Software) from Universidad Rey Juan Carlos and Software Craftsmanship Master's Degree in Universidad Politécnica de Madrid.
 
 ## NBDE
 I mainly work on [NBDE](https://access.redhat.com/articles/6987053). This technology is composed of different repositories I normally work with:
