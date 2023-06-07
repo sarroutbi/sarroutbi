@@ -10,6 +10,12 @@ I mainly work on [NBDE](https://access.redhat.com/articles/6987053). This techno
 * [jose](https://github.com/latchset/jose)
 * [luksmeta](https://github.com/latchset/luksmeta)
 
+## Articles
+I have written/co-written some articles, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:
+* https://www.redhat.com/en/blog/clevis-performance-improvements
+* https://access.redhat.com/articles/6987053
+* https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift
+
 <!--
 **sarroutbi/sarroutbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
