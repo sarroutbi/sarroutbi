@@ -8,6 +8,7 @@ I mainly work on [NBDE](https://access.redhat.com/articles/6987053). This techno
 * [clevis](https://github.com/latchset/clevis)
 * [jose](https://github.com/latchset/jose)
 * [luksmeta](https://github.com/latchset/luksmeta)
+
 Apart from previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides `NBDE` technology on OpenShift/Kubernetes:
 * [tang-operator](https://github.com/latchset/tang-operator)
 
