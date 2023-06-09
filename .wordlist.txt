@@ -17,6 +17,7 @@ luksmeta
 Markdown
 NBDE
 nbde
+OpenShift
 openshift
 Politécnica
 redhat
