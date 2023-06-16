@@ -28,6 +28,7 @@ nbde
 OpenShift
 openshift
 Politécnica
+RedHat
 redhat
 Rey
 RHEL
