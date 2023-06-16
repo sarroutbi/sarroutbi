@@ -22,6 +22,11 @@ I have written/co-written some articles, mostly on different aspects of [NBDE](h
 * https://access.redhat.com/articles/6987053
 * https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift
 
+## Other projects collaboration
+* [rsyslog](https://github.com/rsyslog/rsyslog/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
+* [rsyslog-doc](https://github.com/rsyslog/rsyslog-doc/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
+* [librdkafka](https://github.com/confluentinc/librdkafka/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
+
 <!--
 **sarroutbi/sarroutbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
