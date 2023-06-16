@@ -20,6 +20,7 @@ jose
 K8S
 Kubernetes
 Libre
+librdkafka
 luksmeta
 Markdown
 NBDE
@@ -30,6 +31,7 @@ Politécnica
 redhat
 Rey
 RHEL
+rsyslog
 sarroutbi
 Universidad
 www
