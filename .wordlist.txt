@@ -18,6 +18,7 @@ http
 https
 jose
 K8S
+koji
 Kubernetes
 Libre
 librdkafka
@@ -32,6 +33,7 @@ RedHat
 redhat
 Rey
 RHEL
+rustspyder
 rsyslog
 sarroutbi
 Universidad
