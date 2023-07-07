@@ -20,6 +20,7 @@ Regarding tests, I usually collaborate with [RedHat Special Projects Security](h
 I have also been collaborating with [DEE HMS](https://github.com/dee-hms/), an initiative to provide Disk Encryption Experience in [ConsoleDot](https://github.com/RedHatInsights). In particular, these are the repositories I have created and contributed to:
 * [tang-adv-displayer](https://github.com/dee-hms/tang-adv-displayer)
 * [dee-hms-deployment](https://github.com/dee-hms/dee-hms-deployment)
+* [http-server-x509-svid-parser](https://github.com/dee-hms/http-server-x509-svid-parser)
 
 ## Articles
 I have written/co-written some articles, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:
