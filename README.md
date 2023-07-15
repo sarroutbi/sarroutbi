@@ -21,6 +21,7 @@ Lately, I have also been contributing to [DEE HMS](https://github.com/dee-hms/),
 * [tang-adv-displayer](https://github.com/dee-hms/tang-adv-displayer)
 * [dee-hms-deployment](https://github.com/dee-hms/dee-hms-deployment)
 * [http-server-x509-svid-parser](https://github.com/dee-hms/http-server-x509-svid-parser)
+* [socat-tang-filter](https://github.com/dee-hms/socat-tang-filter)
 
 ## Articles
 I have written/co-written some articles, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:

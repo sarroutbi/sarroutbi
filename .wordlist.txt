@@ -36,6 +36,7 @@ RHEL
 rustspyder
 rsyslog
 sarroutbi
+socat
 SVID
 svid
 Tang
