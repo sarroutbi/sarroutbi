@@ -1,6 +1,6 @@
 # Sergio Arroutbi (sarroutbi)
 
-Hi there! 👋. I am a Software Developer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) Operating System, and in particular on projects related to [NBDE](https://access.redhat.com/articles/6987053) technology.
+Hi there! 👋. I am a Software Engineer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) Operating System, and in particular on projects related to [NBDE](https://access.redhat.com/articles/6987053) technology.
 
 In the past, I have worked in different industries such as information technology, transport, telecommunication and services industries. Skilled in Linux, C/C++ and Golang programming, Shell Scripting, Software Design and Development, Docker and Kubernetes. I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/), and I have a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/) and also a Software Craftsmanship Master's Degree at [Universidad Politécnica de Madrid](https://www.upm.es/).
 
