@@ -1,6 +1,7 @@
 Arroutbi
 C
 C++
+Cisco
 CLI
 consoledot
 ConsoleDot
@@ -8,6 +9,7 @@ de
 dee
 DEE
 displayer
+Ericsson
 Github
 llvm
 Golang
@@ -24,6 +26,8 @@ Libre
 librdkafka
 luksmeta
 Markdown
+Marvell
+Motorola
 NBDE
 nbde
 OpenShift
@@ -40,6 +44,7 @@ socat
 SVID
 svid
 Tang
+Telefónica
 Universidad
 www
 X509
