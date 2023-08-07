@@ -4,7 +4,15 @@ Hi there! 👋. I am a Senior Software Engineer working at [Red Hat Inc](https:/
 
 In the past, I have worked in different industries such as Information Technology, Telecommunication and Semiconductor industries, for companies such as [Cisco](https://www.cisco.com), [Telefónica](https://telefonica.es), [Motorola](https://motorola.com), [Ericsson](https://ericsson.com) or [Marvell](https://www.marvell.com). 
 
-Skilled in Linux, C/C++ and Golang programming, Shell Scripting, Software Design and Development, Docker and Kubernetes. I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
+I am mostly skilled in:
+* Linux
+* C++ programming
+* Golang programming
+* Shell Scripting
+* Software Design and Development
+* Docker and Kubernetes
+
+I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
 ## NBDE
 I mainly work on [NBDE](https://access.redhat.com/articles/6987053). This technology is composed of different repositories. I usually collaborate with:
