@@ -1,6 +1,6 @@
 # Sergio Arroutbi (sarroutbi)
 
-Hi there! 👋. I am a Senior Software Engineer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) Operating System, and in particular on projects related to [NBDE](https://access.redhat.com/articles/6987053) technology.
+Hi there! 👋. I am a Senior Software Engineer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) Operating System, and in particular on projects related to [NBDE technology](https://access.redhat.com/articles/6987053).
 
 In the past, I have worked in different industries such as Information Technology, Telecommunication and Semiconductor industries, for companies such as [Cisco](https://www.cisco.com), [Telefónica](https://telefonica.es), [Motorola](https://motorola.com), [Ericsson](https://ericsson.com) or [Marvell](https://www.marvell.com). 
 
@@ -23,7 +23,7 @@ I mainly work on [NBDE](https://access.redhat.com/articles/6987053). This techno
 * [jose](https://github.com/latchset/jose)
 * [luksmeta](https://github.com/latchset/luksmeta)
 
-Apart from previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides [NBDE](https://access.redhat.com/articles/6987053) technology, in particular, Tang server deployment automation on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift):
+Apart from previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides [NBDE technology](https://access.redhat.com/articles/6987053), in particular, Tang server deployment automation on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift):
 * [tang-operator](https://github.com/latchset/tang-operator)
 
 Regarding tests, I usually collaborate with [RedHat Special Projects Security](https://github.com/RedHat-SP-Security/tests) upstream tests repository. I work mostly with [tang-operator suite](https://github.com/RedHat-SP-Security/tests/tree/master/tang-operator)), although I have contributed to other test suites:
