@@ -9,8 +9,10 @@ I am mostly skilled in:
 * C++ programming
 * Golang programming
 * Shell Scripting
-* Software Design and Development
+* Software Design
+* Software Development
 * Docker and Kubernetes
+* Security
 
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
