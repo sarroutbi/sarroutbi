@@ -1,6 +1,6 @@
 # Sergio Arroutbi (sarroutbi)
 
-Hi there! 👋. I am a Senior Software Engineer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) Operating System, and in particular on projects related to [NBDE technology](https://access.redhat.com/articles/6987053).
+Hi there! 👋. I am a Software developer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) Operating System, and in particular on projects related to [NBDE technology](https://access.redhat.com/articles/6987053).
 
 In the past, I have worked in different industries such as Information Technology, Telecommunication and Semiconductor industries, for companies such as [Cisco](https://www.cisco.com), [Telefónica](https://telefonica.es), [Motorola](https://motorola.com), [Ericsson](https://ericsson.com) or [Marvell](https://www.marvell.com). 
 
