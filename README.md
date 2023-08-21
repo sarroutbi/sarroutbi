@@ -5,23 +5,23 @@ Hi there! 👋. I am a Software developer working at [Red Hat Inc](https://www.r
 In the past, I have worked in different industries such as Information Technology, Telecommunication and Semiconductor industries, for companies such as [Cisco](https://www.cisco.com), [Telefónica](https://telefonica.es), [Motorola](https://motorola.com), [Ericsson](https://ericsson.com) or [Marvell](https://www.marvell.com). 
 
 I am mostly skilled in:
-* Linux
 * C++ programming
+* Docker and Kubernetes
 * Golang programming
+* Linux
+* Security
 * Shell Scripting
 * Software Design
 * Software Development
-* Docker and Kubernetes
-* Security
 
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
 ## NBDE
 I mainly work on [NBDE](https://access.redhat.com/articles/6987053). This technology is composed of different repositories. I usually collaborate with:
-* [tang](https://github.com/latchset/tang)
 * [clevis](https://github.com/latchset/clevis)
 * [jose](https://github.com/latchset/jose)
 * [luksmeta](https://github.com/latchset/luksmeta)
+* [tang](https://github.com/latchset/tang)
 
 Apart from previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides [NBDE technology](https://access.redhat.com/articles/6987053), in particular, Tang server deployment automation on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift):
 * [tang-operator](https://github.com/latchset/tang-operator)
@@ -31,9 +31,9 @@ Regarding tests, I usually collaborate with [RedHat Special Projects Security](h
 
 Lately, I have also been contributing to [DEE HMS](https://github.com/dee-hms/), an initiative to provide Disk Encryption Experience in [ConsoleDot](https://github.com/RedHatInsights). In particular, these are the repositories I have created and contributed to:
 * [dee-hms-deployment](https://github.com/dee-hms/dee-hms-deployment)
-* [tang-iam-proxy](https://github.com/dee-hms/tang-iam-proxy)
 * [socat-tang-filter](https://github.com/dee-hms/socat-tang-filter)
 * [tang-adv-displayer](https://github.com/dee-hms/tang-adv-displayer)
+* [tang-iam-proxy](https://github.com/dee-hms/tang-iam-proxy)
 
 ## Articles
 I have written/co-written some articles, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:
@@ -48,9 +48,9 @@ Ultimately, I have been learning and coding in `Rust`:
 * [rust-learning-playground](https://github.com/rust-learning-playground)
 
 ## Other projects collaboration
+* [librdkafka](https://github.com/confluentinc/librdkafka/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog](https://github.com/rsyslog/rsyslog/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog-doc](https://github.com/rsyslog/rsyslog-doc/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
-* [librdkafka](https://github.com/confluentinc/librdkafka/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 
 <!--
