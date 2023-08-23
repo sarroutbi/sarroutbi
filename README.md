@@ -5,7 +5,7 @@ Hi there! 👋. I am a Software developer working at [Red Hat Inc](https://www.r
 In the past, I have worked in different industries such as Information Technology, Telecommunication and Semiconductor industries, for companies such as [Cisco](https://www.cisco.com), [Telefónica](https://telefonica.es), [Motorola](https://motorola.com), [Ericsson](https://ericsson.com) or [Marvell](https://www.marvell.com). 
 
 I am mostly skilled in:
-* C++ programming
+* C/C++ programming
 * Docker and Kubernetes
 * Golang programming
 * Linux
