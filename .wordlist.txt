@@ -10,7 +10,10 @@ dee
 DEE
 displayer
 Ericsson
+Git
+GIT
 Github
+Gitlab
 llvm
 Golang
 grcov

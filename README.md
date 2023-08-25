@@ -9,10 +9,9 @@ I am mostly skilled in:
 * Docker and Kubernetes
 * Golang programming
 * Linux
-* Security
-* Shell Scripting
-* Software Design
-* Software Development
+* Scripting
+* Software Design and Development
+* GIT (Github, Gitlab)
 
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
