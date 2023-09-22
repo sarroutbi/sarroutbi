@@ -6,8 +6,8 @@ In the past, I have worked in different industries such as Information Technolog
 
 I am mostly skilled in:
 * C/C++ programming
-* Docker and Kubernetes
 * Golang programming
+* Docker and Kubernetes
 * Linux
 * Scripting
 * Software Design and Development
