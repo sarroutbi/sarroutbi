@@ -7,9 +7,10 @@ In the past, I have worked in different industries such as Information Technolog
 I have experience in:
 * C/C++ programming
 * Golang programming
-* Docker and Kubernetes
-* Linux
+* Podman/Docker
+* OpenShift and Kubernetes
 * Software Design and Development
+* Linux (especially RHEL)
 * Scripting (especially Bash scripting)
 * GIT (especially Github, Gitlab to a lesser extent)
 
