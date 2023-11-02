@@ -8,7 +8,7 @@ I have experience in:
 * C/C++ programming
 * Golang programming
 * Podman/Docker
-* OpenShift and Kubernetes
+* OpenShift/Kubernetes
 * Software Design and Development
 * Linux (especially RHEL)
 * Scripting (especially Bash scripting)
