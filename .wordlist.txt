@@ -39,6 +39,8 @@ NBDE
 nbde
 OpenShift
 openshift
+Podman
+podman
 Politécnica
 RedHat
 redhat
