@@ -23,7 +23,7 @@ I mainly work on [NBDE](https://access.redhat.com/articles/6987053). This techno
 * [luksmeta](https://github.com/latchset/luksmeta)
 * [tang](https://github.com/latchset/tang)
 
-Apart from previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides [NBDE technology](https://access.redhat.com/articles/6987053), in particular, Tang server deployment automation on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift):
+Apart from previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides [NBDE technology](https://access.redhat.com/articles/6987053), in particular, Tang server container deployment automation on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift):
 * [tang-operator](https://github.com/latchset/tang-operator)
 
 Regarding tests, I usually collaborate with [RedHat Special Projects Security](https://github.com/RedHat-SP-Security/tests) upstream tests repository. I work mostly with [tang-operator suite](https://github.com/RedHat-SP-Security/tang-operator-tests)), although I have contributed to other test suites:
