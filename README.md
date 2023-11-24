@@ -1,6 +1,6 @@
 # Sergio Arroutbi (sarroutbi)
 
-Hi there 👋. I am a Software developer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift). I mostly work on projects related to [NBDE technology](https://access.redhat.com/articles/6987053), although lately I am starting to work on [Keylime](https://keylime.dev/).
+Hi there 👋. I am a Software developer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift). I mostly work on projects related to [NBDE technology](https://access.redhat.com/articles/6987053), although lately I am starting to work on [Keylime](https://keylime.dev/) project.
 
 In the past, I have worked in different industries such as Information Technology, Telecommunication and Semiconductor industries, for companies such as [Telefónica](https://telefonica.es), [Cisco](https://www.cisco.com), [Motorola](https://motorola.com), [Ericsson](https://ericsson.com) and [Marvell](https://www.marvell.com). 
 
