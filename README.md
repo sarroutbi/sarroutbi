@@ -7,7 +7,7 @@ In the past, I have worked in different industries such as Information Technolog
 I have experience in:
 * C/C++ programming
 * Golang programming
-* Python programming (language I teach about at University)
+* Python programming (language I teach at University)
 * Podman/Docker
 * OpenShift/Kubernetes
 * Software Design and Development
