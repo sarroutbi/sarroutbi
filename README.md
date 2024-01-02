@@ -27,8 +27,8 @@ I mainly work on [NBDE](https://access.redhat.com/articles/6987053). This techno
 Apart from previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides [NBDE technology](https://access.redhat.com/articles/6987053), in particular, Tang server container deployment automation on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift):
 * [tang-operator](https://github.com/latchset/tang-operator)
 
-Regarding tests, I usually collaborate with [RedHat Special Projects Security](https://github.com/RedHat-SP-Security/tests) upstream tests repository. I work mostly with [tang-operator suite](https://github.com/RedHat-SP-Security/tang-operator-tests)), although I have contributed to other test suites:
-* [RedHat-SP-Security](https://github.com/RedHat-SP-Security/tests/commits?author=sarroutbi) / [tang-operator-tests Test Suite](https://github.com/RedHat-SP-Security/tang-operator-tests)
+Regarding tests, I usually collaborate with [RedHat Special Projects Security](https://github.com/RedHat-SP-Security/tests) upstream tests repository. I work mostly with [tang-operator-tests](https://github.com/RedHat-SP-Security/tang-operator-tests)) test suite, although I have contributed to other test suites:
+* [RedHat-SP-Security](https://github.com/RedHat-SP-Security/tests/commits?author=sarroutbi) / [tang-operator-tests](https://github.com/RedHat-SP-Security/tang-operator-tests)
 
 Lately, I have also been contributing to [DEE HMS](https://github.com/dee-hms/), an initiative to provide Disk Encryption Experience in [ConsoleDot](https://github.com/RedHatInsights). In particular, these are the repositories I have created and contributed to:
 * [dee-hms-deployment](https://github.com/dee-hms/dee-hms-deployment)
