@@ -18,7 +18,7 @@ I have experience in:
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/). I am also an Associate professor at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
 ## NBDE
-I mainly work on [NBDE](https://access.redhat.com/articles/6987053). There are different repositories related to this technology:
+I mainly work on [NBDE technology](https://access.redhat.com/articles/6987053). There are different repositories related to this technology:
 * [clevis](https://github.com/latchset/clevis)
 * [jose](https://github.com/latchset/jose)
 * [luksmeta](https://github.com/latchset/luksmeta)
