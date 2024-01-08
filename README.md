@@ -30,7 +30,7 @@ Apart from contributions to previous repositories, I am main developer and maint
 Regarding tests, I usually collaborate with [RedHat Special Projects Security](https://github.com/RedHat-SP-Security/tests) upstream tests repository. I work mostly with [tang-operator-tests](https://github.com/RedHat-SP-Security/tang-operator-tests)) test suite, although I have contributed to other test suites:
 * [RedHat-SP-Security](https://github.com/RedHat-SP-Security/tests/commits?author=sarroutbi) / [tang-operator-tests](https://github.com/RedHat-SP-Security/tang-operator-tests)
 
-Lately, I have also been contributing to [DEE HMS](https://github.com/dee-hms/), an initiative to provide Disk Encryption Experience in [ConsoleDot](https://github.com/RedHatInsights). In particular, these are the repositories I have created and contributed to:
+Recently, I also contributed to [DEE HMS](https://github.com/dee-hms/), an initiative to provide Disk Encryption Experience in [ConsoleDot](https://github.com/RedHatInsights). In particular, these are the repositories I have created and contributed to:
 * [dee-hms-deployment](https://github.com/dee-hms/dee-hms-deployment)
 * [socat-tang-filter](https://github.com/dee-hms/socat-tang-filter)
 * [tang-adv-displayer](https://github.com/dee-hms/tang-adv-displayer)
