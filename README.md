@@ -17,7 +17,7 @@ I have experience in:
 * Scripting (especially Bash scripting)
 * GIT (especially Github, Gitlab to a lesser extent)
 
-I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/). I am also an Associate professor at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/), where I teach different subjects, normally related to computer programming.
+I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/). I am also an [Associate professor](https://gestion2.urjc.es/pdi/ver/sergio.arroutbi) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/), where I teach different subjects, normally related to computer programming.
 
 ## NBDE
 I mainly work on [NBDE technology](https://access.redhat.com/articles/6987053). These are the main repositories related to this technology:
@@ -29,7 +29,7 @@ I mainly work on [NBDE technology](https://access.redhat.com/articles/6987053). 
 Apart from contributions to previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides [NBDE technology](https://access.redhat.com/articles/6987053) on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift), in particular, Tang server container deployment automation:
 * [tang-operator](https://github.com/latchset/tang-operator)
 
-Regarding tests, I usually collaborate with [RedHat Special Projects Security](https://github.com/RedHat-SP-Security/tests) upstream tests repository. I work mostly with [tang-operator-tests](https://github.com/RedHat-SP-Security/tang-operator-tests)) test suite, although I have contributed to other test suites:
+Regarding tests, I collaborate with [RedHat Special Projects Security](https://github.com/RedHat-SP-Security/tests) upstream tests repository. I work mostly with [tang-operator-tests](https://github.com/RedHat-SP-Security/tang-operator-tests)) test suite, although I have contributed to other test suites:
 * [RedHat-SP-Security](https://github.com/RedHat-SP-Security/tests/commits?author=sarroutbi) / [tang-operator-tests](https://github.com/RedHat-SP-Security/tang-operator-tests)
 
 Recently, I also contributed to [DEE HMS](https://github.com/dee-hms/), an initiative to provide a Disk Encryption Experience Hosted Managed Service in [ConsoleDot](https://github.com/RedHatInsights). Below are the repositories that have been created regarding this project:
