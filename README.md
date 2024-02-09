@@ -13,7 +13,7 @@ I have experience in:
 * Podman/Docker
 * OpenShift/Kubernetes
 * Software Design and Development
-* Linux (especially RHEL)
+* Linux (especially RHEL and Fedora)
 * Scripting (especially Bash scripting)
 * GIT (especially Github, Gitlab to a lesser extent)
 
