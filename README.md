@@ -1,6 +1,6 @@
 # Sergio Arroutbi (sarroutbi)
 
-Hi there 👋. I am a Senior Software developer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift).
+Hi there 👋. I am a Senior Software developer working at [Red Hat Inc](https://www.redhat.com/).  I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift). I also collaborate with [Fedora](https://fedoraproject.org/) project.
 
 I mostly work on projects related to [NBDE technology](https://access.redhat.com/articles/6987053) (Network-Bound Disk Encryption), although recently I have started working on [Keylime](https://keylime.dev/) project.
 
