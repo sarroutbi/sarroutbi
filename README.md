@@ -41,6 +41,11 @@ Recently, I also contributed to [DEE HMS](https://github.com/dee-hms/), an initi
 * [tang-adv-displayer](https://github.com/dee-hms/tang-adv-displayer)
 * [tang-iam-proxy](https://github.com/dee-hms/tang-iam-proxy)
 
+## Keylime
+Lately, I have started contributing to [Keylime](https://keylime.dev/) project, and, in particular, to next repositories:
+* [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
+* [attestation-operator](https://github.com/keylime/attestation-operator/pulls?q=is%3Apr+author%3Asarroutbi)
+
 ## Articles
 I have written/co-written some articles, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:
 * https://www.redhat.com/en/blog/clevis-performance-improvements
@@ -55,11 +60,9 @@ Ultimately, I have been learning and coding in `Rust` programming language:
 
 ## Other projects collaboration
 This is a list of other projects I have collaborated in:
-* [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [librdkafka](https://github.com/confluentinc/librdkafka/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog](https://github.com/rsyslog/rsyslog/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog-doc](https://github.com/rsyslog/rsyslog-doc/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
-* [attestation-operator](https://github.com/keylime/attestation-operator/pulls?q=is%3Apr+author%3Asarroutbi)
 
 <!--
 **sarroutbi/sarroutbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
