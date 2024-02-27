@@ -15,6 +15,7 @@ I have experience in:
 * Podman/Docker
 * OpenShift/Kubernetes
 * Software Design and Development
+* Object Oriented Programming
 * Linux (especially RHEL and Fedora)
 * Scripting (especially Bash scripting)
 * GIT (especially Github, Gitlab to a lesser extent)
