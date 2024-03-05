@@ -48,7 +48,7 @@ Lately, I have started contributing to [Keylime](https://keylime.dev/) project, 
 * [attestation-operator](https://github.com/keylime/attestation-operator/pulls?q=is%3Apr+author%3Asarroutbi)
 
 ## Articles
-I have written/co-written some articles, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:
+I have written/co-written some articles for different Red Hat blogs, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:
 * https://www.redhat.com/en/blog/clevis-performance-improvements
 * https://access.redhat.com/articles/6987053
 * https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift
