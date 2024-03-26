@@ -8,7 +8,7 @@ In the past, I have worked in different industries such as Information Technolog
 
 Additionally, I work as [Associate professor](https://gestion2.urjc.es/pdi/ver/sergio.arroutbi) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/), where I teach different subjects, normally related to computer programming with Python.
 
-I have experience in:
+I have experience in next fields:
 * C/C++ programming
 * Golang programming
 * Python programming (language I teach at University)
