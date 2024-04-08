@@ -52,9 +52,9 @@ Lately, I have started contributing to [Keylime](https://keylime.dev/) project, 
 
 ## Articles
 I have written/co-written some articles for different Red Hat blogs, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:
-* https://www.redhat.com/en/blog/clevis-performance-improvements
-* https://access.redhat.com/articles/6987053
-* https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift
+* [Clevis performance improvements](https://www.redhat.com/en/blog/clevis-performance-improvements)
+* [NBDE (Network-Bound Disk Encryption) Technology](https://access.redhat.com/articles/6987053)
+* [Tang-Operator: Providing NBDE in OpenShift](https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift)
 
 ## Rust
 Ultimately, I have been learning and coding in `Rust` programming language:
