@@ -27,6 +27,8 @@ jose
 K8S
 Keylime
 keylime
+Kryoptic
+kryoptic
 koji
 Kubernetes
 Libre
