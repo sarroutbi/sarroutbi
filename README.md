@@ -38,7 +38,7 @@ Regarding tests, I collaborate with [RedHat Special Projects Security](https://g
 * [RedHat-SP-Security](https://github.com/RedHat-SP-Security) / [common-cloud-orchestration](https://github.com/RedHat-SP-Security/common-cloud-orchestration)
 * [RedHat-SP-Security](https://github.com/RedHat-SP-Security) / [attestation-operator-tests](https://github.com/RedHat-SP-Security/attestation-operator-tests)
 
-Recently, I also contributed to [DEE HMS](https://github.com/dee-hms/), an initiative to provide a Disk Encryption Experience Hosted Managed Service in [ConsoleDot](https://github.com/RedHatInsights). Below are the repositories that have been created regarding this project:
+Recently, I also contributed to [DEE HMS](https://github.com/dee-hms/), an initiative to provide a Disk Encryption Experience Hosted Managed Service in [ConsoleDot](https://github.com/RedHatInsights). Here are the repositories that have been created regarding this project:
 * [dee-hms-deployment](https://github.com/dee-hms/dee-hms-deployment)
 * [socat-tang-filter](https://github.com/dee-hms/socat-tang-filter)
 * [tang-adv-displayer](https://github.com/dee-hms/tang-adv-displayer)
