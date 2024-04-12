@@ -41,6 +41,12 @@ NBDE
 nbde
 OpenShift
 openshift
+PKCS
+PKCS#11
+pkcs
+pkcs#11
+pkcs11
+pkcs11-provider
 Podman
 podman
 Politécnica

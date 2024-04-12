@@ -69,6 +69,7 @@ This is a list of other projects I have contributed to:
 * [rsyslog](https://github.com/rsyslog/rsyslog/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog-doc](https://github.com/rsyslog/rsyslog-doc/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
 * [kryoptic](https://github.com/latchset/kryoptic/commits?author=sarroutbi)
+* [pkcs11-provider](https://github.com/latchset/pkcs11-provider/pulls?q=is%3Apr+author%3Asarroutbi)
 
 <!--
 **sarroutbi/sarroutbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
