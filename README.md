@@ -58,10 +58,10 @@ I have written/co-written some articles for different Red Hat blogs/pages, mostl
 
 ## Rust
 Ultimately, I have been learning and coding in `Rust` programming language:
-* [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [koji-retriever](https://github.com/sarroutbi/koji-retriever)
-* [rustspyder](https://github.com/sarroutbi/rustspyder)
+* [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [rust-learning-playground](https://github.com/rust-learning-playground)
+* [rustspyder](https://github.com/sarroutbi/rustspyder)
 
 ## Other projects collaboration
 This is a list of other projects I have contributed to:
