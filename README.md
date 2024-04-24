@@ -20,7 +20,8 @@ I have experience in the following areas:
 * Object Oriented Programming
 * Linux (especially RHEL and Fedora)
 * Scripting (mainly Bash scripting)
-* GIT (mostly Github, Gitlab to a lesser extent)
+* Control Version (mostly GIT, SVN to a lesser extent)
+* Control Version Platforms (I love Github, but I can work with Gitlab as well)
 
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
