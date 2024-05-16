@@ -8,7 +8,7 @@ I mostly work on projects related to [NBDE technology](https://access.redhat.com
 
 In the past, I have worked in different industries such as Information Technology, Telecommunication and Semiconductor industries, for companies such as [Telefónica](https://telefonica.es), [Cisco](https://www.cisco.com), [Motorola](https://motorola.com), [Ericsson](https://ericsson.com) and [Marvell](https://www.marvell.com).
 
-Additionally, I work as [Associate professor](https://gestion2.urjc.es/pdi/ver/sergio.arroutbi) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/), where I teach different subjects, normally related to computer programming with Python.
+Additionally, I work as [Associate professor](https://gestion2.urjc.es/pdi/ver/sergio.arroutbi) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/), where I teach different subjects, normally related to network computer programming with Python.
 
 I have experience in the following areas:
 * C/C++ programming
