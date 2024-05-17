@@ -6,7 +6,7 @@ I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work 
 
 I mostly work on projects related to [NBDE technology](https://access.redhat.com/articles/6987053) (Network-Bound Disk Encryption), although recently I have started working on [Keylime](https://keylime.dev/) project, and, in particular, on [attestation-operator](https://github.com/keylime/attestation-operator) and [rust-keylime](https://github.com/keylime/rust-keylime) repositories.
 
-In the past, I have worked in different industries such as Information Technology, Telecommunication and Semiconductor industries, for companies such as [Telefónica](https://telefonica.es), [Cisco](https://www.cisco.com), [Motorola](https://motorola.com), [Ericsson](https://ericsson.com) and [Marvell](https://www.marvell.com).
+In the past, I have worked in different industries such as Information Technology, Telecommunications, Transport and Semiconductor industries, for companies such as [Telefónica](https://telefonica.es), [Cisco](https://www.cisco.com), [Motorola](https://motorola.com), [SepsaMedha](https://www.sepsamedha.com/), [Ericsson](https://ericsson.com) and [Marvell](https://www.marvell.com).
 
 Additionally, I work as [Associate professor](https://gestion2.urjc.es/pdi/ver/sergio.arroutbi) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/), where I teach different subjects, normally related to network computer programming with Python.
 
