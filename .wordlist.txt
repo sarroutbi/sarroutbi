@@ -57,9 +57,13 @@ RHEL
 rustspyder
 rsyslog
 sarroutbi
+Sepsa
+SepsaMedha
 socat
 SVID
 svid
+SVN
+svn
 Tang
 Telefónica
 Universidad
