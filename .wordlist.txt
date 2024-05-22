@@ -39,6 +39,8 @@ Marvell
 Motorola
 NBDE
 nbde
+opensc
+OpenSC
 OpenShift
 openshift
 PKCS

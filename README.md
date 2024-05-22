@@ -68,6 +68,7 @@ Ultimately, I have been learning and coding in `Rust` programming language:
 This is a list of other projects I have contributed to:
 * [kryoptic](https://github.com/latchset/kryoptic/commits?author=sarroutbi)
 * [librdkafka](https://github.com/confluentinc/librdkafka/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
+* [opensc](https://github.com/OpenSC/OpenSC/pulls?q=is%3Apr+author%3Asarroutbi)
 * [pkcs11-provider](https://github.com/latchset/pkcs11-provider/pulls?q=is%3Apr+author%3Asarroutbi)
 * [rsyslog](https://github.com/rsyslog/rsyslog/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog-doc](https://github.com/rsyslog/rsyslog-doc/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
