@@ -13,6 +13,7 @@ Additionally, I work as [Associate professor](https://gestion2.urjc.es/pdi/ver/s
 I have experience in the following areas:
 * C/C++ programming
 * Golang programming
+* Network Bound Disk Encryption
 * Python programming (language I teach at University)
 * Podman/Docker
 * OpenShift/Kubernetes
