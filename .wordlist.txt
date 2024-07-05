@@ -1,3 +1,5 @@
+API
+APIs
 Arroutbi
 C
 C++
@@ -24,6 +26,8 @@ https
 IAM
 iam
 jose
+JSON
+json
 K8S
 Keylime
 keylime
