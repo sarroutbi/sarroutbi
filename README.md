@@ -20,7 +20,7 @@ I have experience in the following areas:
 * Software Design and Development
 * Object Oriented Programming
 * Linux (especially RHEL and Fedora)
-* Scripting (mainly Bash scripting)
+* Scripting (mainly through Bash)
 * Control Version (mostly GIT, SVN to a lesser extent)
 * Control Version Platforms (I love Github, but I can work with Gitlab as well)
 
