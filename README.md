@@ -59,7 +59,7 @@ I have written and/or co-written some articles for different Red Hat blogs/pages
 * [Tang-Operator: Providing NBDE in OpenShift](https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift)
 
 ## Rust
-Ultimately, I have been learning and coding in `Rust` programming language:
+Ultimately, I have been learning and coding in `Rust`:
 * [koji-retriever](https://github.com/sarroutbi/koji-retriever)
 * [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [rust-learning-playground](https://github.com/rust-learning-playground)
