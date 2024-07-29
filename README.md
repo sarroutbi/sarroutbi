@@ -11,18 +11,17 @@ In the past, I have worked in different industries such as Information Technolog
 Additionally, I work as [Associate professor](https://gestion2.urjc.es/pdi/ver/sergio.arroutbi) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/), where I teach different subjects, normally related to network computer programming with Python, such as Socket programming, HTTP, JSON and REST APIs.
 
 I have experience in the following areas:
-* C/C++ programming
-* Golang programming
-* Network Bound Disk Encryption
-* Python programming (language I teach at University)
-* Podman/Docker
-* OpenShift/Kubernetes
-* Software Design and Development
-* Object Oriented Programming
-* Linux (especially RHEL and Fedora)
-* Scripting (mainly through Bash)
+* C/C++/Golang programming
 * Control Version (mostly GIT, SVN to a lesser extent)
 * Control Version Platforms (I love Github, but I can work with Gitlab as well)
+* Linux (especially RHEL and Fedora)
+* Network Bound Disk Encryption
+* Object Oriented Programming
+* OpenShift/Kubernetes
+* Podman/Docker
+* Python programming (language I teach at University)
+* Scripting (mainly through Bash)
+* Software Design and Development
 
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
