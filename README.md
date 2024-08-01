@@ -2,6 +2,7 @@
 
 Hello there 👋. I am a Senior Software designer and Open Source Software advocate working at [Red Hat Inc](https://www.redhat.com/).
 
+
 I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work essentially for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift). I also collaborate with [Fedora](https://fedoraproject.org/) project.
 
 I mostly work on projects related to [NBDE technology](https://access.redhat.com/articles/6987053) (Network-Bound Disk Encryption), although recently I have started working on [Keylime](https://keylime.dev/) project, and, in particular, on [attestation-operator](https://github.com/keylime/attestation-operator) and [rust-keylime](https://github.com/keylime/rust-keylime) repositories.
@@ -24,6 +25,10 @@ I have experience in the following areas:
 * Software Design and Development
 
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
+
+Some cool metrics associated to my profile:
+
+![](https://github-readme-stats.vercel.app/api?username=sarroutbi&show_icons=true)
 
 ## NBDE
 I mainly work on [NBDE technology](https://access.redhat.com/articles/6987053). These are the main repositories related to this technology:
