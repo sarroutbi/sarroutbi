@@ -17,7 +17,7 @@ I have experience in the following areas:
 * Linux (especially RHEL and Fedora)
 * Network Bound Disk Encryption
 * Object Oriented Programming
-* OpenShift/Kubernetes
+* OpenShift/Kubernetes, with experience on [operator development](https://github.com/latchset/tang-operator)
 * Podman/Docker
 * Python programming (language I teach at University)
 * Scripting (mainly through Bash)
