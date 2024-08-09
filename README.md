@@ -23,7 +23,9 @@ I have experience in the following areas:
 * Scripting (mainly through Bash)
 * Software Design and Development
 
-I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). Apart from that, I have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
+I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). 
+
+I also have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
 Some cool metrics associated to my profile:
 
