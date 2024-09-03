@@ -71,7 +71,7 @@ Ultimately, I have been learning and coding in `Rust`:
 * [rustspyder](https://github.com/sarroutbi/rustspyder)
 
 ## Other projects collaboration
-This is a list of other projects I have contributed to:
+This is a list of other projects I have minimally contributed to:
 * [kryoptic](https://github.com/latchset/kryoptic/commits?author=sarroutbi)
 * [librdkafka](https://github.com/confluentinc/librdkafka/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [opensc](https://github.com/OpenSC/OpenSC/pulls?q=is%3Apr+author%3Asarroutbi)
