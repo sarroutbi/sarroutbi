@@ -31,6 +31,8 @@ Some cool metrics associated to my profile:
 
 ![](https://github-readme-stats.vercel.app/api?username=sarroutbi&show_icons=true)
 
+And last, but not least, if you ask me, I am on the Emacs side ;-)
+
 ## NBDE
 I mainly work on [NBDE technology](https://access.redhat.com/articles/6987053). These are the main repositories related to this technology:
 * [clevis](https://github.com/latchset/clevis)
