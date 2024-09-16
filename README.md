@@ -14,7 +14,7 @@ I have experience in the following areas:
 * C/C++/Golang programming
 * Control Version (mostly GIT, SVN to a lesser extent)
 * Control Version Platforms (I love Github, but I can work with Gitlab as well)
-* Document writing (through Asciidoc, Latex and Markdown)
+* Document writing (through Latex and Markdown)
 * Linux (especially RHEL and Fedora)
 * Network Bound Disk Encryption
 * Object Oriented Programming
