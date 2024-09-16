@@ -1,6 +1,8 @@
 API
 APIs
 Arroutbi
+Asciidoc
+asciidoc
 C
 C++
 Cisco
@@ -35,10 +37,13 @@ Kryoptic
 kryoptic
 koji
 Kubernetes
+Latex
+latex
 Libre
 librdkafka
 luksmeta
 Markdown
+markdown
 Marvell
 Motorola
 NBDE
