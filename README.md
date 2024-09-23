@@ -19,6 +19,7 @@ I have experience in the following areas:
 * Network Bound Disk Encryption
 * Object Oriented Programming
 * OpenShift/Kubernetes, with experience on [operator development](https://github.com/latchset/tang-operator)
+* PKCS#11
 * Podman/Docker
 * Python programming (language I teach at University)
 * Scripting (mainly through Bash)
