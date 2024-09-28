@@ -15,6 +15,7 @@ I have experience in the following areas:
 * Document writing (through Latex and Markdown)
 * Linux (especially RHEL and Fedora)
 * Network Bound Disk Encryption
+* Network programming 
 * Object Oriented Programming
 * OpenShift/Kubernetes, with experience on [operator development](https://github.com/latchset/tang-operator)
 * PKCS#11
