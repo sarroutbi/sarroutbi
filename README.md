@@ -82,6 +82,16 @@ This is a list of other projects I have minimally contributed to:
 * [rsyslog](https://github.com/rsyslog/rsyslog/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog-doc](https://github.com/rsyslog/rsyslog-doc/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
 
+<br><br>
+<hr>
+<p align="center">
+    <a href="https://github.com/sarroutbi?tab=repositories">Github projects</a> |
+    <a href="https://github.com/sarroutbi">Profile</a> |
+    <a href="https://www.redhat.com/en/authors/sergio-arroutbi">Official Job</a> |
+    <a href="https://gestion2.urjc.es/pdi/ver/sergio.arroutbi">Teaching</a> |
+</p>
+<hr>
+
 <!--
 **sarroutbi/sarroutbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
