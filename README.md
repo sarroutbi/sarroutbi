@@ -32,7 +32,9 @@ Some cool metrics associated to my profile:
 
 ![](https://github-readme-stats.vercel.app/api?username=sarroutbi&show_icons=true)
 
-And last, but not least, if you ask me, I am on the Emacs side :laughing:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarroutbi&size_weight=0.5&count_weight=0.5&hide=html,Tex,PostScript,JavaScript,Java,CSS,Gnuplot,Perl,PHP,Makefile&langs_count=5&layout=donut)
+
+And last, but not least, if you ask me, I am on the Emacs side ;-)
 
 ## NBDE
 I mainly work on [NBDE technology](https://access.redhat.com/articles/6987053). These are the main repositories related to this technology:
