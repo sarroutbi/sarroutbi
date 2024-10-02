@@ -86,7 +86,7 @@ This is a list of other projects I have minimally contributed to:
 
 <br><br>
 <hr>
-<p align="center">
+<p align="center"> |
     <a href="https://github.com/sarroutbi?tab=repositories">Github projects</a> |
     <a href="https://github.com/sarroutbi">Profile</a> |
     <a href="https://www.redhat.com/en/authors/sergio-arroutbi">Official Job</a> |
