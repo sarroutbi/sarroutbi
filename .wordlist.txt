@@ -41,6 +41,9 @@ Latex
 latex
 Libre
 librdkafka
+LinkedIn
+Linkedin
+linkedin
 luksmeta
 Markdown
 markdown
