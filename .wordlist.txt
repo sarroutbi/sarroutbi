@@ -55,6 +55,8 @@ opensc
 OpenSC
 OpenShift
 openshift
+Pascal
+pascal
 PKCS
 PKCS#11
 pkcs
