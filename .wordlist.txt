@@ -51,6 +51,7 @@ Marvell
 Motorola
 NBDE
 nbde
+nbde-tang-server
 opensc
 OpenSC
 OpenShift
