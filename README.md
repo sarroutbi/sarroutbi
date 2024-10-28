@@ -17,7 +17,7 @@ I have experience in the following areas:
 * Network Bound Disk Encryption
 * Network programming 
 * Object Oriented Programming
-* OpenShift/Kubernetes, with experience on [operator development](https://github.com/latchset/tang-operator)
+* OpenShift/Kubernetes, with experience on [operator development](https://github.com/openshift/nbde-tang-server)
 * Podman/Docker
 * Python programming (language I teach at University)
 * Scripting (mainly through Bash)
@@ -42,8 +42,8 @@ I mainly work on [NBDE technology](https://access.redhat.com/articles/6987053). 
 * [luksmeta](https://github.com/latchset/luksmeta)
 * [tang](https://github.com/latchset/tang)
 
-Apart from contributions to previous repositories, I am main developer and maintainer of `tang-operator`. This operator provides [NBDE technology](https://access.redhat.com/articles/6987053) on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift), in particular, Tang server container deployment automation:
-* [tang-operator](https://github.com/latchset/tang-operator)
+Apart from contributions to previous repositories, I am main developer and maintainer of `nbde-tang-server`. This operator provides [NBDE technology](https://access.redhat.com/articles/6987053) on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift), in particular, Tang server container deployment automation:
+* [nbde-tang-server](https://github.com/openshift/nbde-tang-server)
 
 Regarding tests, I collaborate with [RedHat Special Projects Security](https://github.com/RedHat-SP-Security/tests/commits?author=sarroutbi) upstream tests repository. I work mostly with [tang-operator-tests](https://github.com/RedHat-SP-Security/tang-operator-tests)) test suite, although I have contributed to other test suites:
 * [RedHat-SP-Security](https://github.com/RedHat-SP-Security) / [common-cloud-orchestration](https://github.com/RedHat-SP-Security/common-cloud-orchestration)
