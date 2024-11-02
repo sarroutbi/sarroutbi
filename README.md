@@ -9,10 +9,11 @@ I mostly work on projects related to [NBDE technology](https://access.redhat.com
 In the past, I have worked in different industries such as Information Technology, Telecommunications, Transport and Semiconductor industries, for companies such as [Telefónica](https://telefonica.es), [Cisco](https://www.cisco.com), [Motorola](https://motorola.com), [SepsaMedha](https://www.sepsamedha.com/), [Ericsson](https://ericsson.com) and [Marvell](https://www.marvell.com).
 
 I have experience in the following areas:
-* C/C++/Golang programming
+* C/C++ programming
 * Control Version (mostly GIT, SVN to a lesser extent)
 * Control Version Platforms (I love Github, but I can work with Gitlab as well)
 * Document writing (through Latex and Markdown)
+* Golang programming
 * Linux (especially RHEL and Fedora)
 * Network Bound Disk Encryption
 * Network programming 
