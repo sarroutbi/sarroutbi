@@ -90,7 +90,7 @@ This is a list of other projects I have minimally contributed to:
     <a href="https://github.com/sarroutbi?tab=repositories">Github projects</a> |
     <a href="https://github.com/sarroutbi">Github Profile</a> |
     <a href="https://www.linkedin.com/in/sergio-arroutbi-9995a4b/">LinkedIn Profile</a> |
-    <a href="https://www.redhat.com/en/authors/sergio-arroutbi">Official Job</a> |
+    <a href="https://www.redhat.com/en/authors/sergio-arroutbi">Main Job</a> |
     <a href="https://gestion2.urjc.es/pdi/ver/sergio.arroutbi">Teaching</a> |
 </p>
 <hr>
