@@ -34,9 +34,12 @@ json
 K8S
 Keylime
 keylime
+Konflux
+konflux
+koji
+Koji
 Kryoptic
 kryoptic
-koji
 Kubernetes
 Latex
 latex
