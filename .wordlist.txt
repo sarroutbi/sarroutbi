@@ -71,6 +71,9 @@ pkcs11-provider
 Podman
 podman
 Politécnica
+RamaLama
+Ramalama
+ramalama
 RedHat
 redhat
 Rey
