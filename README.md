@@ -83,8 +83,10 @@ This is a list of other projects I have minimally contributed to:
 * [librdkafka](https://github.com/confluentinc/librdkafka/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [opensc](https://github.com/OpenSC/OpenSC/pulls?q=is%3Apr+author%3Asarroutbi)
 * [pkcs11-provider](https://github.com/latchset/pkcs11-provider/pulls?q=is%3Apr+author%3Asarroutbi)
+* [ramalama](https://github.com/containers/ramalama/issues?q=is%3Apr+author%3Asarroutbi)
 * [rsyslog](https://github.com/rsyslog/rsyslog/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog-doc](https://github.com/rsyslog/rsyslog-doc/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
+
 
 <br><br>
 <hr>
