@@ -23,6 +23,7 @@ I have experience in the following areas:
 * OpenShift/Kubernetes, with experience on [operator development](https://github.com/openshift/nbde-tang-server)
 * Podman/Docker
 * Python programming (language I teach at University)
+* Rust programming (to a lesser extent)
 * Scripting (mainly through Bash)
 * Software Design and Development
 

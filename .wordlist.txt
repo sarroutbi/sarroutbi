@@ -78,6 +78,9 @@ RedHat
 redhat
 Rey
 RHEL
+RUST
+Rust
+rust
 rustspyder
 rsyslog
 sarroutbi
