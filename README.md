@@ -60,7 +60,7 @@ I also contributed to [DEE HMS](https://github.com/dee-hms/), an initiative to p
 * [tang-iam-proxy](https://github.com/dee-hms/tang-iam-proxy)
 
 ## Keylime
-My recent focus has expanded to the [Keylime project](https://keylime.dev/), contributing to secure remote attestation:
+My recent focus has expanded to the [Keylime project](https://keylime.dev/), contributing to different repositories:
 * [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [attestation-operator](https://github.com/keylime/attestation-operator/pulls?q=is%3Apr+author%3Asarroutbi)
 * [attestation-operator-tests](https://github.com/RedHat-SP-Security/attestation-operator-tests/pulls?q=is%3Apr+author%3Asarroutbi)
