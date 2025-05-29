@@ -1,6 +1,6 @@
 # Sergio Arroutbi (sarroutbi)
 
-Hi there 👋. I am a passionate Software Engineer and a strong Open Source Software advocate working at [Red Hat.](https://www.redhat.com/)
+Hi there 👋. I am a passionate Software Engineer and a strong Open Source Software advocate working at [Red Hat Inc.](https://www.redhat.com/)
 
 I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work mostly for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift). I also collaborate with [Fedora](https://fedoraproject.org/) project.
 
