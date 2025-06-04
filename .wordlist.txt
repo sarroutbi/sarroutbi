@@ -94,6 +94,8 @@ svn
 Tang
 Telefónica
 Universidad
+URJC
+urjc
 www
 X509
 x509
