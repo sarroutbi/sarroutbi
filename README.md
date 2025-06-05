@@ -1,5 +1,6 @@
 # Sergio Arroutbi (sarroutbi)
 
+## Introduction
 Hi there 👋. I am a passionate Software Engineer and Open Source Software advocate working at [Red Hat Inc.](https://www.redhat.com/)
 
 I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work mostly for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift). I also collaborate with [Fedora](https://fedoraproject.org/) project.
@@ -10,6 +11,12 @@ I mostly work on projects related to [NBDE technology](https://access.redhat.com
 
 Previously, I have worked in different industries such as Information Technology, Telecommunications, Transport and Semiconductor industries, for companies such as [Telefónica](https://telefonica.es), [Cisco](https://www.cisco.com), [Motorola](https://motorola.com), [SepsaMedha](https://www.sepsamedha.com/), [Ericsson](https://ericsson.com) and [Marvell](https://www.marvell.com).
 
+## Current Focus
+At this moment, I am focused on:
+* Implementation of Push Model for [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi) repository
+* Leading [NBDE technology](https://access.redhat.com/articles/6987053) efforts in on [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+
+## Technical Experience
 I have experience in the following areas:
 * C/C++ programming
 * Control Version (mostly GIT, SVN to a lesser extent)
@@ -72,7 +79,8 @@ I have written and/or co-written some articles for different Red Hat blogs/pages
 * [Tang-Operator: Providing NBDE in OpenShift](https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift)
 
 ## Rust
-Ultimately, I have been learning and coding in `Rust`:
+Ultimately, I have been learning and coding in `Rust` 🦀:
+* [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [koji-retriever](https://github.com/sarroutbi/koji-retriever)
 * [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [rust-learning-playground](https://github.com/rust-learning-playground)
