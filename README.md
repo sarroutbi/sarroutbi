@@ -82,7 +82,6 @@ I have written and/or co-written some articles for different Red Hat blogs/pages
 Ultimately, I have been learning and coding in `Rust` 🦀:
 * [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [koji-retriever](https://github.com/sarroutbi/koji-retriever)
-* [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
 * [rust-learning-playground](https://github.com/rust-learning-playground)
 * [rustspyder](https://github.com/sarroutbi/rustspyder)
 
