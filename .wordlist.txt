@@ -92,6 +92,7 @@ svid
 SVN
 svn
 Tang
+Telco
 Telefónica
 Universidad
 URJC
