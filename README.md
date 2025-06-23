@@ -23,6 +23,7 @@ I have experience in the following areas:
 * Control Version Platforms (I love Github, but I can work with Gitlab as well)
 * Document writing (through Latex and Markdown)
 * Golang programming
+* Keylime project
 * Linux (especially RHEL and Fedora)
 * Network Bound Disk Encryption
 * Network programming 
@@ -33,6 +34,7 @@ I have experience in the following areas:
 * Rust programming (to a lesser extent)
 * Scripting (mainly through Bash)
 * Software Design and Development
+* Telco
 
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). 
 
