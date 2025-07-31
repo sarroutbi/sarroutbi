@@ -1,3 +1,4 @@
+#11
 API
 APIs
 api
@@ -7,6 +8,9 @@ asciidoc
 C
 C++
 Cisco
+clevis
+Clevis
+CLEVIS
 CLI
 consoledot
 ConsoleDot
