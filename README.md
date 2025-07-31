@@ -78,6 +78,7 @@ My recent focus has expanded to the [Keylime project](https://keylime.dev/), con
 ## Articles
 I have written and/or co-written some articles for different Red Hat blogs/pages, mostly on different aspects of [NBDE](https://access.redhat.com/articles/6987053) technology:
 * [Clevis performance improvements](https://www.redhat.com/en/blog/clevis-performance-improvements)
+* [How to use the Clevis PKCS #11 pin](https://developers.redhat.com/articles/2025/07/31/how-use-clevis-pkcs-11-pin)
 * [NBDE (Network-Bound Disk Encryption) Technology](https://access.redhat.com/articles/6987053)
 * [Tang-Operator: Providing NBDE in OpenShift](https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift)
 
