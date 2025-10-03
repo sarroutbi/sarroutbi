@@ -3,7 +3,7 @@
 ## Introduction
 Hi there 👋. I am a passionate Software Engineer and Open Source Software advocate working at [Red Hat Inc.](https://www.redhat.com/)
 
-I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work mostly for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift). I also collaborate with [Fedora](https://fedoraproject.org/) project.
+I love [Linux](https://www.linuxfoundation.org/) 🐧 Operating System and work mostly for [RHEL Operating System](https://www.redhat.com/es/technologies/linux-platforms/enterprise-linux) and [OpenShift Platform](https://github.com/openshift) ☸️. I also collaborate with [Fedora](https://fedoraproject.org/) project.
 
 Besides this, I work as [Associate professor](https://gestion2.urjc.es/pdi/ver/sergio.arroutbi) at [URJC (Universidad Rey Juan Carlos de Madrid)](https://www.urjc.es/), where I teach different subjects related to network computer programming with Python, such as Socket programming, HTTP, JSON and REST APIs. I also started recently teaching Programming Fundamentals through Pascal programming language.
 
