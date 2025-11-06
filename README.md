@@ -72,6 +72,7 @@ I also contributed to [DEE HMS](https://github.com/dee-hms/), an initiative to p
 My recent focus has expanded to the [Keylime project](https://keylime.dev/), contributing to different repositories:
 * [keylime](https://github.com/keylime/keylime/issues?q=is%3Apr+author%3Asarroutbi)
 * [rust-keylime](https://github.com/keylime/rust-keylime/pulls?q=is%3Apr+author%3Asarroutbi)
+* [keylime-mcp](https://github.com/keylime/keylime-mcp/pulls?q=is%3Apr+author%3Asarroutbi)
 * [attestation-operator](https://github.com/keylime/attestation-operator/pulls?q=is%3Apr+author%3Asarroutbi)
 * [attestation-operator-tests](https://github.com/RedHat-SP-Security/attestation-operator-tests/pulls?q=is%3Apr+author%3Asarroutbi)
 
