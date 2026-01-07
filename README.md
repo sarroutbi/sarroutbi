@@ -40,11 +40,11 @@ I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](
 
 I also have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
+<!--
 Some cool metrics associated to my profile:
-
 ![](https://github-readme-stats.vercel.app/api?username=sarroutbi&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarroutbi&size_weight=0.5&count_weight=0.5&hide=html,Tex,PostScript,JavaScript,Java,CSS,Gnuplot,Perl,PHP,Makefile&langs_count=5&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarroutbi&size_weight=0.5&count_weight=0.5&hide=html,Tex,PostScript,JavaScript,Java,CSS,Gnuplot,Perl,PHP,Makefile&langs_count=5&layout=donut)]
+-->
 
 And last, but not least, if you ask me, I am on the Emacs side ;-)
 
