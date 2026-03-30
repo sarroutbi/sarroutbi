@@ -92,7 +92,7 @@ Ultimately, I have been learning and coding in `Rust` 🦀:
 
 ## Other projects collaboration
 This is a list of other projects I have minimally contributed to:
-* [clevis-pin-trustee](https://github.com/latchset/clevis-pin-trustee/issues?q=is%3Apr+author%3Asarroutbi)
+* [clevis-pin-trustee](https://github.com/latchset/clevis-pin-trustee/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
 * [kryoptic](https://github.com/latchset/kryoptic/commits?author=sarroutbi)
 * [librdkafka](https://github.com/confluentinc/librdkafka/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [opensc](https://github.com/OpenSC/OpenSC/pulls?q=is%3Apr+author%3Asarroutbi)
