@@ -26,7 +26,7 @@ I have experience in the following areas:
 * Keylime project
 * Linux (especially RHEL and Fedora)
 * Network Bound Disk Encryption
-* Network programming 
+* Network programming
 * Object Oriented Programming
 * OpenShift/Kubernetes, with experience on [operator development](https://github.com/openshift/nbde-tang-server)
 * Podman/Docker
@@ -36,7 +36,7 @@ I have experience in the following areas:
 * Software Design and Development
 * Telco
 
-I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/). 
+I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/).
 
 I also have a Software Craftsmanship Master's Degree also at [Universidad Politécnica de Madrid](https://www.upm.es/) and a Master's Degree in FLOSS (Free/Libre/Open Source Software) at [Universidad Rey Juan Carlos de Madrid](https://www.urjc.es/).
 
@@ -82,6 +82,7 @@ I have written and/or co-written some articles for different Red Hat blogs/pages
 * [How to use the Clevis PKCS #11 pin](https://developers.redhat.com/articles/2025/07/31/how-use-clevis-pkcs-11-pin)
 * [NBDE (Network-Bound Disk Encryption) Technology](https://access.redhat.com/articles/6987053)
 * [Tang-Operator: Providing NBDE in OpenShift](https://cloud.redhat.com/blog/tang-operator-providing-nbde-in-openshift)
+* [Agent-driven attestation: How Keylime's push model rethinks remote integrity verification](https://developers.redhat.com/articles/2026/04/08/agent-driven-attestation-how-keylimes-push-model-rethinks-remote-integrity)
 
 ## Rust
 Ultimately, I have been learning and coding in `Rust` 🦀:
