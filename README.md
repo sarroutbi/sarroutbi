@@ -34,6 +34,8 @@ I have experience in the following areas:
 * Rust programming (to a lesser extent)
 * Scripting (mainly through Bash)
 * Software Design and Development
+* Software Requirement Specifications
+* Specifications Driven Development
 * Telco
 
 I studied Telecommunication Engineering at [Universidad Politécnica de Madrid](https://www.upm.es/).
