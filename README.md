@@ -105,6 +105,7 @@ This is a list of other projects I have minimally contributed to:
 * [ramalama](https://github.com/containers/ramalama/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
 * [rsyslog](https://github.com/rsyslog/rsyslog/pulls?q=is%3Apr+author%3Asarroutbi+is%3Amerged)
 * [rsyslog-doc](https://github.com/rsyslog/rsyslog-doc/pulls?q=is%3Apr+is%3Amerged+author%3Asarroutbi)
+* [rust-tss-esapi](https://github.com/parallaxsecond/rust-tss-esapi)
 
 
 <br><br>
