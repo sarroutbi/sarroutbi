@@ -19,6 +19,7 @@ dee
 DEE
 displayer
 Ericsson
+esapi
 Git
 GIT
 Github
@@ -101,6 +102,7 @@ svn
 Tang
 Telco
 Telefónica
+tss
 Universidad
 URJC
 urjc
